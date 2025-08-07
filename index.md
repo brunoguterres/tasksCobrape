@@ -4,6 +4,8 @@ layout: default
 
 # Meu Blog
 
+[Sobre Mim](/sobre/)
+
 Aqui estão os meus posts mais recentes:
 
 <ul class="post-list">
