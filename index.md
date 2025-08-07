@@ -1,20 +1,10 @@
 ---
 layout: default
+title: Página Inicial
 ---
 
-# Meu Blog
+# Bem-vindo ao meu site!
 
-[Sobre Mim](sobre.md)
+Este é o texto da minha página inicial.
 
-Aqui estão os meus posts mais recentes:
-
-<ul class="post-list">
-  {% for post in site.posts %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <h2>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      </h2>
-    </li>
-  {% endfor %}
-</ul>
+[Veja meus posts aqui!](/postagens/)
