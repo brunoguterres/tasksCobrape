@@ -7,4 +7,4 @@ title: Página Inicial
 
 Este é o texto da minha página inicial.
 
-[Veja meus posts aqui!](/postagens/)
+[Veja meus posts aqui!](postagens.md)
