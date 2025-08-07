@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Sobre Mim"
+permalink: /sobre/
 ---
 
 # Olá, sou o [Seu Nome]
