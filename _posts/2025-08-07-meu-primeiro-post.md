@@ -1,11 +1,17 @@
 ---
 layout: post
-title: "Meu Primeiro Post do Blog"
+title: Meu Primeiro Post com Jekyll
 author: Bruno dos Santos Guterres
-tags: [tutorial, Jekyll, markdown]
-categories: [tecnologia, desenvolvimento]
+date: 2025-08-07 10:00:00 -0300
+categories: [Jekyll, Tutorial]
 ---
 
-# Olá, Mundo!
+Este é o conteúdo do meu primeiro post. Estou muito animado para começar!
 
-Este é o conteúdo do meu primeiro post. É muito fácil escrever em **Markdown**.
+## Subtítulo
+
+Você pode usar toda a sintaxe do Markdown para formatar seu texto, como **negrito**, _itálico_, e listas:
+
+* Item 1
+* Item 2
+* Item 3

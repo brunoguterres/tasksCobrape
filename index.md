@@ -4,7 +4,7 @@ layout: default
 
 # Meu Blog
 
-[Sobre Mim](./sobre.md)
+[Sobre Mim](sobre.md)
 
 Aqui estão os meus posts mais recentes:
 
