@@ -7,4 +7,4 @@ title: Página Inicial
 
 ## Postagens
 
-- [teste post](posts/teste1.md)
+- [Resumo: Texto para ações de irrigação - PRHRPB](posts/2025-08-07-resumo-tarefa-texto-acoes-irrigacao.md)
