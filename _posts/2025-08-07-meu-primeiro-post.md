@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meu Primeiro Post do Blog"
-author: Seu Nome
+author: Bruno dos Santos guterres
 date: 2025-08-07 10:00:00 -0300
 tags: [tutorial, Jekyll, markdown]
 categories: [tecnologia, desenvolvimento]
