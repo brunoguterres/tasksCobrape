@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meu Primeiro Post do Blog"
-author: Bruno dos Santos guterres
+author: [Bruno dos Santos guterres](https://github.com/brunoguterres)
 tags: [tutorial, Jekyll, markdown]
 categories: [tecnologia, desenvolvimento]
 ---
