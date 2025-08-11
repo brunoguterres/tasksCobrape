@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post | Meu Site</title>
+    <link rel="stylesheet" href="styles/modern-style.css">
+</head>
+<body>
+
+    <header>
+        <div class="header-container">
+            <h1>Meu Blog</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Início</a></li>
+                    <li><a href="postagens.html">Postagens</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="content-container">
+            <div id="markdown-container"></div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Meu Site. Todos os direitos reservados.</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked@4.2.12/marked.min.js"></script>
+    
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        const markdownFile = urlParams.get('post');
+
+        if (markdownFile) {
+            fetch(markdownFile)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Erro ao carregar o arquivo Markdown.');
+                    }
+                    return response.text();
+                })
+                .then(markdownText => {
+                    const htmlContent = marked.parse(markdownText);
+                    document.getElementById('markdown-container').innerHTML = htmlContent;
+                })
+                .catch(error => {
+                    console.error('Houve um problema:', error);
+                    document.getElementById('markdown-container').innerHTML = '<p>Não foi possível carregar o conteúdo.</p>';
+                });
+        } else {
+            document.getElementById('markdown-container').innerHTML = '<p>Nenhuma postagem selecionada.</p>';
+        }
+    </script>
+
+</body>
+</html>
