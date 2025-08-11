@@ -1,5 +1,4 @@
-# Proposta de Prompt - Plano de Ação para o Programa de Eficiência Hídrica na Agricultura Irrigada
-
+# Proposta de texto base para Plano de Ação para o Programa de Eficiência Hídrica na Agricultura Irrigada
 
 ## 1. Introdução: O Contexto Estratégico da Eficiência Hídrica na Agricultura Irrigada
 
@@ -29,6 +28,8 @@ A baixa eficiência global do uso da água na agricultura acarreta uma série de
 
 Os desafios que a agricultura irrigada brasileira enfrenta são multifacetados, exigindo uma abordagem sistêmica que integre soluções tecnológicas, políticas e de capacitação. A tabela a seguir sintetiza os principais desafios identificados.
 
+<br>
+
 |Categoria do Desafio|Descrição Detalhada|Oportunidade de Ação (Resumo)|
 |:-------------------|:------------------|:----------------------------|
 |**Institucional**|Baixa integração entre instituições públicas e privadas.|Fortalecer a sinergia entre os atores da gestão hídrica e agrícola.|
@@ -40,6 +41,7 @@ Os desafios que a agricultura irrigada brasileira enfrenta são multifacetados, 
 |**Tecnológico**|Dificuldade na assimilação e adoção de novas tecnologias pelos produtores.|Facilitar o acesso e o conhecimento sobre tecnologias de precisão.|
 |**Climático**|Necessidade de adaptação às mudanças climáticas e suas variações.|Implementar estratégias de adaptação, planos de contingência e modelos de risco.|
 
+<br>
 
 ## 3. Objetivos do Programa: Alinhamento Estratégico e Operacional
 
@@ -110,12 +112,16 @@ As ações de governança e política são essenciais para criar um ambiente reg
 - **Elaboração de Planos de Contingência:** Desenvolver, em parceria com os comitês de bacia, planos de contingência detalhados para cenários de escassez hídrica. Esses planos devem utilizar modelos econômicos e hidrológicos para gerenciar riscos, estabelecer prioridades de uso e garantir a resiliência do setor produtivo frente às variações climáticas.
 - **Problema Solucionado:** Vulnerabilidade crescente às variações climáticas e a falta de preparo para eventos de escassez.
 
+<br>
+
 |Categoria das Ações|Ações Práticas|Problema(s) Principal(is) Solucionado(s)|
 |:------------------|:-------------|:---------------------------------------|
 |**Tecnológicas**|Adoção de sistemas de irrigação por gotejamento, microaspersão e pivôs de alta eficiência.<br><br>Implementação de sensores de umidade do solo e automação em "malha fechada".<br><br>Uso de ferramentas como inteligência artificial e imagens de satélite.|Baixa eficiência global no uso da água.<br><br>Desperdício de água por manejo inadequado e falta de precisão.<br><br>Tomada de decisão não informada por dados em tempo real.|
 |**Agronômicas**|Promoção de plantio direto, rotação e consórcio de culturas.|Degradação do solo, perda de água e erosão.|
 |**Capacitação**|Criação de programas de treinamento sobre manejo de irrigação e manutenção de sistemas.<br><br>Fortalecimento da assistência técnica e extensão rural.|Falta de conhecimento técnico dos produtores.<br><br>Barreira de assimilação de novas tecnologias.|
 |**Governança e Política**|Concessão de linhas de crédito subsidiadas e financiamentos para tecnologias de eficiência.<br><br>Vínculo entre as outorgas de uso de água e a adoção de planos de uso racional.<br><br>Elaboração de planos de contingência para cenários de escassez hídrica.|Alto custo inicial para modernização de sistemas.<br><br>Uso da água sem critérios de eficiência e sustentabilidade.<br><br>Vulnerabilidade e falta de preparo para riscos climáticos.|
+
+<br>
 
 ## 6. Conclusão e Estrutura do Prompt
 
