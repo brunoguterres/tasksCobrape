@@ -14,7 +14,7 @@
             <nav>
                 <ul>
                     <li><a href="index.html">Início</a></li>
-                    <li><a href="conteudos.html">Postagens</a></li>
+                    <li><a href="conteudos.html">Conteúdos</a></li>
                 </ul>
             </nav>
         </div>
@@ -33,6 +33,42 @@
     <script src="https://cdn.jsdelivr.net/npm/marked@4.2.12/marked.min.js"></script>
     
     <script>
+        const emojiMap = {
+            ':memo:': '📝',
+            ':warning:': '⚠️',
+            ':bulb:': '💡',
+            ':v:': '✅',
+            ':x:': '❌',
+            ':new:': '🆕',
+        };
+
+        const emojiExtension = {
+            name: 'emoji',
+            level: 'inline',
+            start(src) {
+                return src.match(/:[a-zA-Z0-9_]+:/)?.index;
+            },
+            tokenizer(src, tokens) {
+                const rule = /^:([a-zA-Z0-9_]+):/;
+                const match = rule.exec(src);
+                if (match) {
+                    const emoji = emojiMap[match[0]];
+                    if (emoji) {
+                        return {
+                            type: 'emoji',
+                            raw: match[0],
+                            text: emoji,
+                        };
+                    }
+                }
+            },
+            renderer(token) {
+                return token.text;
+            },
+        };
+
+        marked.use({ extensions: [emojiExtension] });
+
         const urlParams = new URLSearchParams(window.location.search);
         const markdownFile = urlParams.get('post');
 
