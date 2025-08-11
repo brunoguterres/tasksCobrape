@@ -1,6 +1,6 @@
-# Bem-vindo ao Meu Site!
+# Postagem de conteúdo exemplo
 
-Olá! Este é um exemplo de site hospedado no GitHub Pages. Todo este texto está sendo lido de um arquivo chamado `conteudo.md` e transformado em HTML pelo navegador.
+Este é um exemplo de conteúdo hospedado na página web de tarefas realizadas para a COBRAPE. Todo este texto está sendo lido de um arquivo **markdown** e transformado em HTML pelo navegador.
 
 ---
 
