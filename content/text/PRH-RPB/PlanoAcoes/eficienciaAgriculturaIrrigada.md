@@ -35,53 +35,27 @@ Para alcançar essas metas, o programa se apoia em objetivos operacionais. Um de
 2.  **Uso de Agricultura de Precisão:** Subsidiar a instalação de sensores de umidade do solo, que medem em tempo real a necessidade hídrica da cultura. A integração desses sensores com sistemas de irrigação automatizados, operando em "malha fechada", garante a aplicação da quantidade exata de água no momento ideal, evitando o desperdício comum em sistemas baseados em temporizadores.
 3.  **Promoção de Práticas Conservacionistas:** Fomentar a adoção de técnicas como o plantio direto, a rotação e o consórcio de culturas. Tais práticas melhoram a estrutura do solo, aumentando sua capacidade de retenção de água e protegendo-o da erosão, o que é especialmente relevante em regiões com precipitação irregular.
 4.  **Adoção de Fertirrigação e Manejo Integrado:** Incentivar a aplicação de fertilizantes juntamente com a água de irrigação (fertirrigação). Essa prática otimiza a absorção de nutrientes, reduz o uso de insumos e, quando combinada com um manejo adequado, pode aumentar significativamente a produtividade.
-5.  **Aproveitamento de Águas de Reuso:** Desenvolver estudos e projetos-piloto para o uso seguro de efluentes tratados na irrigação, como forma de reduzir a pressão sobre mananciais superficiais e subterrâneos.
+5.  **Aproveitamento de Água de Reuso:** Desenvolver estudos e projetos-piloto para o uso seguro de efluentes tratados na irrigação, como forma de reduzir a pressão sobre mananciais superficiais e subterrâneos.
 6.  **Seleção de Cultivares Resilientes:** Incentivar a pesquisa e a adoção de cultivares geneticamente adaptadas a condições de menor disponibilidade hídrica, aumentando a resiliência das lavouras em períodos de seca.
 
 #### **Ações de Capacitação e Extensão Rural**
 
 1.  **Treinamento em Manejo de Irrigação:** Criar programas de capacitação contínua para os usuários de água, com foco em tópicos práticos como "quando e quanto irrigar", ajustando a aplicação de água com base em dados de solo e clima. A falta de conhecimento técnico é uma das principais causas da ineficiência hídrica.
 2.  **Fortalecimento da Assistência Técnica:** Aprimorar e expandir a atuação de equipes de extensão rural para que auxiliem diretamente os produtores na escolha, na instalação e no manejo de tecnologias de irrigação eficientes. A assistência técnica é vital para a assimilação de inovações no campo.
-3.  **Demonstração de Campo:** Estabelecer fazendas-modelo ou unidades de demonstração em diferentes sub-bacias. Nesses locais, os produtores podem ver na prática os resultados do uso de tecnologias de alta eficiência e de práticas agronômicas sustentáveis.
+3.  **Demonstração de Campo:** Estabelecer fazendas-modelo ou unidades de demonstração nas diferentes sub-bacias. Nesses locais, os produtores podem ver na prática os resultados do uso de tecnologias de alta eficiência e de práticas agronômicas sustentáveis.
 
 #### **Ações de Governança, Política e Incentivos**
 
 1.  **Incentivos Econômicos e Crédito:** Criar e expandir linhas de crédito subsidiadas, como programas específicos para a agricultura familiar (exemplo do PRONISAF), que facilitem a aquisição de equipamentos de irrigação modernos e sustentáveis. O alto custo inicial é uma barreira significativa para a transição tecnológica.
-2.  **Revisão de Critérios para Outorga:** Implementar novos critérios para a concessão de outorgas de uso da água que condicionem o direito de captação à apresentação e ao cumprimento de um plano de uso racional da água.[10, 11]
+2.  **Revisão de Critérios para Outorga:** Implementar novos critérios para a concessão de outorgas de uso da água que condicionem o direito de captação à apresentação e ao cumprimento de um plano de uso racional da água.
 3.  **Planejamento de Contingência:** Desenvolver planos de contingência detalhados em conjunto com os comitês de bacia para gerenciar cenários de escassez hídrica. Esses planos devem estabelecer prioridades de uso e garantir a resiliência do setor produtivo frente a eventos climáticos extremos.
 4.  **Integração Institucional:** Promover uma maior sinergia entre órgãos gestores de recursos hídricos, de agricultura e de meio ambiente, tanto em nível federal quanto estadual. A coordenação entre essas instituições é crucial para uma gestão hídrica e agrícola eficaz.
 5.  **Monitoramento e Fiscalização:** Fortalecer os sistemas de monitoramento de vazões e a fiscalização do uso da água, garantindo que as outorgas sejam respeitadas e que o recurso seja utilizado de forma eficiente e sustentável.
 
 
-### Questões relevantes
-
-
-
-
-### Metas
-
-A definição de metas claras e mensuráveis é fundamental para transformar os objetivos estratégicos e operacionais do programa em resultados tangíveis. Essas metas funcionam como um guia para a implementação das ações, permitindo o monitoramento do progresso, a avaliação da eficácia do programa e a demonstração do retorno sobre o investimento para todas as partes interessadas.
-
-#### **Aumento da Produtividade da Água e da Eficiência Agronômica**
-
-- **Redução do consumo de água per capita na agricultura irrigada:** Reduzir em 15% o consumo médio de água por hectare irrigado na bacia. Isso será alcançado através da adoção de tecnologias de irrigação mais eficientes, melhorando a gestão da água no campo e capacitando os produtores. A meta é que essa redução ocorra sem afetar negativamente a produção, mas sim, otimizando-a.
-
-- **Aumento da produtividade por unidade de água (kg/m³):** Aumentar em 20% a produtividade hídrica das principais culturas irrigadas na bacia. Para monitorar esse objetivo, serão utilizados dados de monitoramento de safra e de sistemas de medição de água, além de ferramentas de sensoriamento remoto, que permitirão avaliar o impacto das novas práticas de manejo.
-
-#### **Expansão da Adoção de Tecnologias Eficientes**
-
-- **Substituição de métodos de irrigação de baixa eficiência:** Subir de 10% para 40% a área total irrigada na bacia que utiliza tecnologias de alta eficiência, como gotejamento, microaspersão e pivôs centrais modernos. Para isso, o programa oferecerá suporte técnico e incentivará o acesso a linhas de crédito rural que facilitem a transição tecnológica para os agricultores.
-
-- **Fortalecimento da capacitação técnica:** Capacitar ao menos 1.500 produtores e 300 técnicos agrícolas em boas práticas de manejo de irrigação e em uso de novas tecnologias. A capacitação será feita por meio de cursos, workshops e dias de campo, garantindo que o conhecimento chegue até aqueles que aplicam as práticas no dia a dia.
-
-#### **Promoção da Gestão Hídrica e do Cumprimento Legal**
-
-- **Aumento da regularização do uso da água:** Aumentar em 50% o número de usuários de água que possuem a devida outorga para a irrigação, fortalecendo a segurança jurídica e a gestão da bacia. Para isso, o programa atuará em parceria com os órgãos de gestão de recursos hídricos, facilitando os processos de outorga e conscientizando os produtores sobre a importância da regularização.
-
-- **Monitoramento da qualidade da água:** Implantar um sistema de monitoramento da qualidade da água em 10 pontos estratégicos da bacia, permitindo a detecção de potenciais problemas de poluição por agroquímicos e salinização. Os dados coletados serão usados para avaliar o impacto das ações do programa e orientar novas estratégias de manejo e prevenção de danos ambientais.
-
-
 ### <u>Fontes Pesquisadas (externas):</u>
+
+> - https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias/ana-lanca-estudo-sobre-impactos-da-mudanca-climatica-nos-recursos-hidricos-das-diferentes-regioes-do-brasil
 > - https://croplifebrasil.org/pergunta/quais-sao-as-tecnologias-que-permitem-melhor-uso-da-agua-e-do-solo/
 > - https://www.cpt.com.br/cursos-irrigacao-agricultura/artigos/5-formas-sustentaveis-de-economizar-agua-na-agricultura
 > - https://aprh.pt/pt/publicacoes/artigos/eficiencia-global-do-uso-de-agua-na-agricultura-irrigada/
