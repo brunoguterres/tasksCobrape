@@ -1,7 +1,7 @@
 # Prompt para solicitar texto descritivo da ferramenta desenvolvida como plugin no QGIS para projeto de concepção de sistema de esgotamento sanitário
 
 ```
-Preciso que crie um texto para descrever uma ferramenta que foi desenvolvida pela empresa em que trabalho.
+Preciso que crie um texto para descrever uma ferramenta que foi desenvolvida pela empresa em que trabalho. O objetivo deste texto é descrever de uma forma muito técnica e forma o que é e como funciona a ferramenta.
 
 Esta ferramenta foi desenvolvida como um plugin que funciona dentro do sofware QGIS. Esta escolha foi realizada estratégicamente, pensando na otimização dos recursos de geoprocessamento já existentes e na integração com a estrutura de projetos já em andamento.
 
@@ -18,7 +18,9 @@ Quanto ao funcionamento do plugin, sua execução é organizadas em etapas de mo
 
 Precisa falar neste texto sobre as fontes de dados utilizadas. Os dados DEM são obtidos do produto ANADEM desenvolvido pela Agência Nacional das Águas e Saneamento Básico em parceria com o Instituto de Pesquisas Hidráulicas (IPH) da Universidade Federal do Rio Grande do Sul (UFRGS). Os dados de malha municipal, malha de setores censitários com dados de população do censo de 2022 e faces de logradouros com dado de residências foram obtidos do portal de dados do Instituto Brasileiro de Geografia e Estatística (IBGE).
 
-Preciso que crie um texto bem conciso e técnico. Amarre bem as ideia para criar um texto bom de ser lido.
+O Plugin possui uma janela de configurações onde o usuário define os locais dos arquivos da base de dados de entrada, e também pode editar os parâmetros utilizados nas diversas etapas execução da ferramenta.
+
+Preciso que crie um texto bem coeso e técnico. Amarre bem as ideia para criar um texto bom de ser lido. Não quero tópicos no texto, ou seja, quero um texto corrido.
 
 Quero um texto descritivo de no máximo uma página (A4) de tamanho. Pode ser até um pouco menor, mas não muito pequeno. Só não pode ultrapassar 1 página.
 
