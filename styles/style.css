@@ -115,3 +115,57 @@ nav a {
 nav a.active, nav a:hover {
     background-color: rgba(255, 255, 255, 0.1);
 }
+
+/* --- Estilos da Página de Login --- */
+.login-container {
+    background-color: rgba(10, 10, 10, 0.65);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
+    padding: 30px 40px;
+    max-width: 400px;
+    width: 100%;
+    margin: auto; /* Centraliza na página */
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+    color: #cccccc;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    background-color: rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    color: #ffffff;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+#message {
+    margin-top: 15px;
+    color: #ff4d4d;
+    text-align: center;
+}
