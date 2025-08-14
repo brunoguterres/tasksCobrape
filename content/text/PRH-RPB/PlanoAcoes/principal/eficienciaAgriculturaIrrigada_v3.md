@@ -1,8 +1,14 @@
 # <u>Texto: Plano de ações PRH-RPB</u>
 
-> **Alteração realizada por solicitações de Murilo Nogueira**<br>
+<font color='yellow'>
+
+> **Alteração realizada por solicitações de Murilo Nogueira em 13/08/2025**<br>
 > - Pediu para adequar os textos iniciais ao Plano porque disse que estava muito genérico.
 > - Pediu para reduzir o número de ações.
+
+</font>
+
+<br>
 
 ## Programa - Eficiência Hídrica na Agricultura Irrigada
 
