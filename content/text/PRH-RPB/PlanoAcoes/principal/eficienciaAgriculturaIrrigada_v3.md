@@ -1,5 +1,9 @@
 # <u>Texto: Plano de ações PRH-RPB</u>
 
+> **Alteração realizada por solicitações de Murilo Nogueira**<br>
+> - Pediu para adequar os textos iniciais ao Plano porque disse que estava muito genérico.
+> - Pediu para reduzir o número de ações.
+
 ## Programa - Eficiência Hídrica na Agricultura Irrigada
 
 O programa de Eficiência Hídrica na Agricultura Irrigada é uma resposta estratégica aos desafios de gestão da água na Bacia Hidrográfica do Rio Paraíba, que enfrenta a pressão do uso agrícola em um cenário de vulnerabilidade climática. A agricultura, embora vital para a economia e a segurança alimentar da região , é o setor que mais consome água, e a baixa eficiência na sua aplicação pode levar ao desperdício de insumos, ao esgotamento de mananciais e à degradação do solo. O propósito do programa é, portanto, dissociar o crescimento da produção do aumento do consumo de água, promovendo a resiliência do setor, a produtividade por volume de água utilizado e a sustentabilidade ambiental para mitigar os impactos negativos associados ao manejo inadequado do recurso.   
